@@ -19,4 +19,4 @@ These Neurolinks will be dropped on A, then B and lastly C.
 
 **Neurolink**: Neurolinks are small puddles you can stand in.  Standing inside of a neurolink will inflict players with a Neurolink status, heavily reducing their damage dealt and heavily reducing damage taken from hatches. Taking a hatch outside of a Neurolink will cause a Wipe. 
 
-<p style="color:red;">test</p>
+<code style="color : name_color">test</code>
