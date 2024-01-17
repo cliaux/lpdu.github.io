@@ -19,4 +19,15 @@ These Neurolinks will be dropped on A, then B and lastly C.
 
 **Neurolink**: Neurolinks are small puddles you can stand in.  Standing inside of a neurolink will inflict players with a Neurolink status, heavily reducing their damage dealt and heavily reducing damage taken from hatches. Taking a hatch outside of a Neurolink will cause a Wipe. 
 
-<code style="color : name_color">test</code>
+
+# Pull (100%-74%)
+
+<table>
+  <tr>
+    <td width="50%"><p><b>1.</b> Pull Twintania to A and turn her around to not cleave anyone with Plummet.</p>  
+<p>All players should loosely spread out and non-tanks will get ready to stack behind Twintania for the upcoming Fireball.</p> 
+<p>Make sure you have a clear path free of other Players.</p></td>
+    <td><img src="https://github.com/cliaux/lpdu.github.io/blob/main/ucob/images/P1-Twintania/Twintania_01.png"></td>
+  </tr>
+ 
+</table>
