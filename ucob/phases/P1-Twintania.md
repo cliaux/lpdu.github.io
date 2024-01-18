@@ -23,7 +23,7 @@ These Neurolinks will be dropped on A, then B and lastly C.
 
 **Liquid Hell (Distance)**: Targetted aoe on a player, placing a fire puddle under them. Standing in the puddle will inflict a lethal burn dot. Twintania will always target a random player 15-25 yalm away for these baits.
 
-**Liquid Hell (Target)**: Twintania will gain a second variant of Liquid Hell. She will target a completely random player (excluding current tank) and shoot 5 liquid hells at them, regardless of their distance. This cannot be baited.
+**Liquid Hell (Target)**: Twintania will target a completely random player (excluding current tank) and shoot 5 liquid hells at them, regardless of their distance. This cannot be baited.
 
 
 # Pull (100%-74%)
