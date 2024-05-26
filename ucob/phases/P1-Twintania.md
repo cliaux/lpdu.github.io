@@ -33,7 +33,7 @@ These Neurolinks will be dropped on A, then B and lastly C.
     <td width="50%"><p><b>1.</b> Pull Twintania to A and turn her around to not cleave anyone with Plummet.</p>  
 <p>All players should loosely spread out and non-tanks will get ready to stack behind Twintania for the upcoming Fireball.</p> 
 <p>Make sure you have a clear path free of other Players.</p></td>
-    <td><img src="https://github.com/cliaux/lpdu.github.io/blob/main/ucob/images/P1-Twintania/Twintania_01.png"></td>
+    <td><img src="http src="https://github.com/cliaux/lpdu.github.io/blob/main/ucob/images/P1-Twintania/Twintania_01.png"></td>
   </tr>
   <tr>
     <td width="50%"><p><b>2.</b> Twintania will mark a non Tank for Fireball and start casting Twister. Collapse behind Twintania to dodge Twisters and to soak the damage.</p>
