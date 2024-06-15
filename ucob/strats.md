@@ -89,7 +89,7 @@ Spreading out for both Spread and Twisters will be done in your quickmarch direc
 ### **General Information**
 
 **Middle or Wall Dodge - decide as a group or follow tank. Play safe if you aren't sure.**  
-[commonly used mitigation macro](strats#macros-for-golden-bahamut-mitigation)  
+[commonly used mitigation macro](strats.md#macros-for-golden-bahamut-mitigation)  
 Akh Morns: Shared(Kitchen Sink) > Invuln > Invuln > Shared(Kitchen Sink)  
 Morn Afahs: DPS > Tank/Healer > Tank LB3 > DPS > Everything left.  
 > [!NOTE]
