@@ -1,6 +1,6 @@
 # **General Resources**
-Full LPDU Video Guide made by Tessan Twintails
-https://www.youtube.com/watch?v=EG9NxD6bxWs
+Full LPDU Video Guide made by Tessan Twintails  
+[Guide here](https://www.youtube.com/watch?v=EG9NxD6bxWs)
 
 ## **Waymarks**
 ```
@@ -17,7 +17,7 @@ L2/R2 - Healer
 L3/R3 - Melee  
 L4/R4 - Ranged  
 
-## **Macros for Golden Bahamut Mitigation**
+## **Macro for Golden Bahamut Mitigation**
 ```
 /p Soil/Kera/Shields/Reprisal on every Morn Afah
 /p 1st MA: DPS Mitigations
@@ -30,16 +30,18 @@ L4/R4 - Ranged
 # **UCOB Strats by Phases**
 
 ## **Guide:**
-https://clees.me/guides/ucob/ will be used as a basis for understanding what each mechanic does.
+[Clees guide](https://clees.me/guides/ucob/) will be used as a basis for understanding what each mechanic does.
 
 ## **Phase 1:Twintania**
 
 ### **General Information**
-Reverse Triangle Neurolinks, typically CW rotation for neuro drops starting from NW. 5 Man stack for first Fireball, one healer and both tanks stay out. Other fireballs full stacks unless you're comfortable 5manning and LB generating them without addle/feint/reprisal. Note: It does not matter whether you have LB3 or 2 for transition, other than you have to heal more with LB2. Ultimately as a group you decide, both methods work just fine.
+Reverse Triangle Neurolinks, typically CW rotation for neuro drops starting from NW. 5 Man stack for first Fireball, one healer and both tanks stay out. Other fireballs full stacks unless you're comfortable 5manning and LB generating them without addle/feint/reprisal.  
+> [!NOTE]
+> It does not matter whether you have LB3 or 2 for transition, other than you have to heal more with LB2. Ultimately as a group you decide, both methods work just fine.
 
 5 Stack Second Fireball Alternative:  
 Fire baiter + Tanks stay out, unless baiter has Fireball Marker, then same healer who stays out for first stack stays out. No Reprisal, No Addle, No Feint. You can use mitigation that is applied to players, not on enemies. Be careful that with this strat, you will need sufficient mitigation to not die on this stack. Lack of party mitigation may result in deaths instead. 6man stack is not reliable for LB generation. You can read more on LB Generation in earlier than 5.0 content here:  
-https://www.akhmorning.com/allagan-studies/limit-break/gauge-generation/#pre-shadowbringers-content-50  
+[akhmorning guide](https://www.akhmorning.com/allagan-studies/limit-break/gauge-generation/#pre-shadowbringers-content-50)  
 The strat relies on "Surviving Lethal Damage" part. Simply taking damage does not give more LB.
 
 ## **Phase 2: Nael deus Darnus**
@@ -62,12 +64,14 @@ Spread in Quickmarch positions roughly around Nael for Dive using the middle as 
 
 ### **Heavensfall**
 QM Positions Spread. If Tower under Nael = R1  
-https://ff14.toolboxgaming.space/?id=141496754100071&preview=1 may be used as an example for Heavensfall.  
+[example toolbox](https://ff14.toolboxgaming.space/?id=141496754100071&preview=1) may be used as an example for Heavensfall.  
 
 ### **Tenstrike**
 Spread around in Quickmarch spread spots (click for image) to quickly identify where you have to go with your hatch if you get one.  
 North marker (4, true north) is safe both times for shakers.  
 Make sure to gather up after hatches (before shakers) in the middle to be healed up. 
+> [!TIP]
+> Use 4 marker to show which position you will take on 2nd set of earthshakers to minimize confusion
 
 ### **Grand Octet**
 Clees Mario Kart. TankLB3 as you run into the middle. Soak all towers. Twintania Bait point left looking at twin. If no LB3, Megaflares right looking at twin. 
@@ -85,9 +89,11 @@ Spreading out for both Spread and Twisters will be done in your quickmarch direc
 ### **General Information**
 
 **Middle or Wall Dodge - decide as a group or follow tank. Play safe if you aren't sure.**  
+[commonly used mitigation macro](strats#macros-for-golden-bahamut-mitigation)  
 Akh Morns: Shared(Kitchen Sink) > Invuln > Invuln > Shared(Kitchen Sink)  
-Morn Afahs: DPS > Tank/Healer > Tank LB3 > DPS > Everything left.   
-_Note: You may opt to do non-Tank LB3 Morn Afah. In this case, mitigation will be different. Talk it out with your group individually if you opt to not use LB3 on the 3rd Morn Afah._
+Morn Afahs: DPS > Tank/Healer > Tank LB3 > DPS > Everything left.  
+> [!NOTE]
+> You may opt to do non-Tank LB3 Morn Afah. In this case, mitigation will be different. Talk it out with your group individually if you opt to not use LB3 on the 3rd Morn Afah.
 
 ### **First Morn Afah**
 Stack directly under the Boss for the first Morn Afah  
