@@ -6,6 +6,6 @@ remote_theme: "dracula/gh-pages"
 plugins:
 - jekyll-remote-theme
 title: "LPDU"
-description: ""
+description: "Strats used on Light DC"
 show_downloads: false
 show_header: false
