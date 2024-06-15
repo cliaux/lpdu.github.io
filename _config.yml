@@ -6,5 +6,5 @@ plugins:
 remote_theme: "dracula/gh-pages"
 title: "Light Partyfinder Does Ultimates"
 description: "Strats used on Light DC"
-show_downloads: "false"
-show_header: "false"
+show_downloads: false
+show_header: false
