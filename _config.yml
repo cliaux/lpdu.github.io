@@ -1,11 +1,11 @@
-#remote_theme: jekyll/minima
-#minima:
-#  skin: auto
-#remote_theme: "dracula/gh-pages"
-remote_theme: "mkrisher/jekyll-nord-theme"
+remote_theme: jekyll/minima
+minima:
+  skin: auto
+remote_theme: "dracula/gh-pages"
+#remote_theme: "mkrisher/jekyll-nord-theme"
 plugins:
 - jekyll-remote-theme
 title: "LPDU"
-description: "Strats used on Light DC"
+description: ""
 show_downloads: false
 show_header: false
