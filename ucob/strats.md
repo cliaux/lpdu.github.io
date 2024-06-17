@@ -36,7 +36,7 @@ L4/R4 - Ranged
 
 ### **General Information**
 Reverse Triangle Neurolinks, typically CW rotation for neuro drops starting from NW. 5 Man stack for first Fireball, one healer and both tanks stay out. Other fireballs full stacks unless you're comfortable 5manning and LB generating them without addle/feint/reprisal.  
-> Note:  
+> **Note:**  
 > It does not matter whether you have LB3 or 2 for transition, other than you have to heal more with LB2. Ultimately as a group you decide, both methods work just fine.
 
 5 Stack Second Fireball Alternative:  
@@ -70,7 +70,7 @@ QM Positions Spread. If Tower under Nael = R1
 Spread around in Quickmarch spread spots (click for image) to quickly identify where you have to go with your hatch if you get one.  
 North marker (4, true north) is safe both times for shakers.  
 Make sure to gather up after hatches (before shakers) in the middle to be healed up. 
-> Tip!  
+> **Tip!**  
 > Use 4 marker to show which position you will take on 2nd set of earthshakers to minimize confusion
 
 ### **Grand Octet**
@@ -92,7 +92,7 @@ Spreading out for both Spread and Twisters will be done in your quickmarch direc
 [commonly used mitigation macro](#macro-for-golden-bahamut-mitigation)  
 Akh Morns: Shared(Kitchen Sink) > Invuln > Invuln > Shared(Kitchen Sink)  
 Morn Afahs: DPS > Tank/Healer > Tank LB3 > DPS > Everything left.  
-> Note:  
+> **Note:**  
 > You may opt to do non-Tank LB3 Morn Afah. In this case, mitigation will be different. Talk it out with your group individually if you opt to not use LB3 on the 3rd Morn Afah.
 
 ### **First Morn Afah**
