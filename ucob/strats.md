@@ -64,7 +64,7 @@ Spread in Quickmarch positions roughly around Nael for Dive using the middle as 
 
 ### **Heavensfall**
 QM Positions Spread. If Tower under Nael = R1  
-[example toolbox](https://ff14.toolboxgaming.space/?id=141496754100071&preview=1) may be used as an example for Heavensfall.  
+[this toolbox](https://ff14.toolboxgaming.space/?id=141496754100071&preview=1) may be used as an example for Heavensfall.  
 
 ### **Tenstrike**
 Spread around in Quickmarch spread spots (click for image) to quickly identify where you have to go with your hatch if you get one.  
