@@ -35,4 +35,4 @@ While we do allow posting GPoses within reason, LPDU isn't a place for mature co
 :one::one: **Avoid seeking loopholes in the rules.**  
 If you're unsure about whether your actions violate the rules, it's best not to proceed forward. Exploiting or bending the rules is also considered a violation. Persisting in an action after a moderator or support instructs you to stop, even if done later, is considered a rule violation.
 
-Note that staff has the final say and should be respected.
+:asterisk: Note that staff has the final say and should be respected.
