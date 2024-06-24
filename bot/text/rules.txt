@@ -13,9 +13,9 @@ If a party encounter goes awry, refrain from lashing out at users in LPDU.
 
 :five: **Ensure you ping appropriately.** 
 When posting a PF, ensure you only ping a single role and ensure the PF has proper tags. Here's a quick rundown of the Pings:
-Prog for prog and no [Duty Complete]
-Clear Party for clearing (no adds to clear etc or C4U) and no [Duty Complete]
-Reclears for Reclear/Totem with [Duty Complete] set. Ensure you have a verified clear from <#945725212073295922> before pinging Reclears.
+* Prog for prog and no [Duty Complete]
+* Clear Party for clearing (no adds to clear etc or C4U) and no [Duty Complete]
+* Reclears for Reclear/Totem with [Duty Complete] set. Ensure you have a verified clear from <#945725212073295922> before pinging Reclears.
 
 :six: **The #strats are just standards.** 
 You are free to use any strats you wish, but please indicate this in your descriptions. #strats-discussion also may be used to talk about adjustments in LPDU strats.
