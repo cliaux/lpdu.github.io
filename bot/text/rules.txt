@@ -1,39 +1,38 @@
 [TITLE] LPDU Rules
-
-:redone: **No hate speech.** 
+:one: **No hate speech.** 
 This rule should be considered common sense. Avoid using any form of disciminatory language which goes against but not limited to race, religion, gender and so forth. This extends to dogwhistles, where users are trying to get around this rule by using vague expressions.
 
-:redtwo: **No drama.** 
+:two: **No drama.** 
 This includes personal conflicts including but not limited to being blacklisted by someone. LPDU is not a place for you to hash out your personal drama.
 
-:redthree: **Maintain Respectful Communication.** 
+:three: **Maintain Respectful Communication.** 
 We all understand that heated situations happen, but no matter the situation attempt to retain respectful communication. Insulting users just for the sake of insulting them is not desired behaviour.
 
-:redfour:  **You are not entitled to a clear.** 
+:four:  **You are not entitled to a clear.** 
 If a party encounter goes awry, refrain from lashing out at users in LPDU.
 
-:redfive: **Ensure you ping appropriately.** 
+:five: **Ensure you ping appropriately.** 
 When posting a PF, ensure you only ping a single role and ensure the PF has proper tags. Here's a quick rundown of the Pings:
 Prog for prog and no [Duty Complete]
 Clear Party for clearing (no adds to clear etc or C4U) and no [Duty Complete]
 Reclears for Reclear/Totem with [Duty Complete] set. Ensure you have a verified clear from <#945725212073295922> before pinging Reclears.
 
-:redsix: **The #strats are just standards.** 
+:six: **The #strats are just standards.** 
 You are free to use any strats you wish, but please indicate this in your descriptions. #strats-discussion also may be used to talk about adjustments in LPDU strats.
 
-:redseven: **Criticism is Allowed**. 
+:seven: **Criticism is Allowed**. 
 We allow users to give constructive feedback towards other users in their respective encounter channels. However, if the feedback isn't constructive, you should refrain from posting it. @'ing someone for inflammatory purposes is prohibited, and rule 3 must also be ahdered.
 
-:redeight: **Party leaders can do anything.** 
+:eight: **Party leaders can do anything.** 
 It's their party, their decisions. If they choose to remove anyone for any reason, they have the authority to do so. We do not moderate parties and their internal dynamics.
 
-:rednine: **Recruit in recruitment channels.** 
+:nine: **Recruit in recruitment channels.** 
 When forming a party, please use the appropriate PF recruitment channels. Avoid pinging outside of those designated channels. Static recruitment must be contained in static recruitment, and please refrain from pinging roles in static recruitment.
 
-:redone::redzero: **LPDU is not intended for mature content**. 
+:one::zero: **LPDU is not intended for mature content**. 
 While we do allow posting GPoses within reason, LPDU isn't a place for mature content. This means that any form of sexualized content whether XIV related or not is strictly prohibited. In regards to GPosing, even unmodded vanilla bikini pin-up shots are considered NSFW.
 
-:redone::redone: **Avoid seeking loopholes in the rules.**  
+:one::one: **Avoid seeking loopholes in the rules.**  
 If you're unsure about whether your actions violate the rules, it's best not to proceed forward. Exploiting or bending the rules is also considered a violation. Persisting in an action after a moderator or support instructs you to stop, even if done later, is considered a rule violation.
 
 Note that staff has the final say and should be respected.
