@@ -1,11 +1,16 @@
-[TITLE] Title of the Post
+[TITLE] Title of Post 1
 [IMAGE] https://lpdu.guide/bot/epicofalexander.png
 [THUMBNAIL] https://lpdu.guide/bot/DPS.png
-[FOOTER] Footer Text Goes Here
-[COLOR] #000000
+[FOOTER] Section 1 Footer
+[COLOR] #FF0000
 
-[POST 1]
-Post 1 of the Embed
+Text for 1st Post
 
 [POST 2]
-Post 2 of the Embed
+[TITLE 2] Title of Post 2
+[IMAGE 2] https://lpdu.guide/bot/weaponsrefrain.png
+[THUMBNAIL 2] https://lpdu.guide/bot/Tank.png
+[FOOTER 2] Section 2 Footer
+[COLOR 2] #FF0000
+
+Text for 2nd Post
