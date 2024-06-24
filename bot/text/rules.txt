@@ -1,12 +1,9 @@
 LPDU Rules
-[POST 1]
-1 . **No hate speech.** This rule should be considered common sense.
+1. **No hate speech.** This rule should be considered common sense.
 2. **No drama.** This includes personal conflicts including but not limited to being blacklisted by someone.
 3. **Maintain Respectful Communication.** No need to trash-talk your raid buddies. Banter is allowed, but if it's clear that it goes beyond banter the staff will intervene and action.
 4. **You are not entitled to a clear.** If a party encounter goes awry, refrain from lashing out at users in LPDU.
 5. **Ensure you ping appropriately.** When posting a PF, ensure you only ping a single role and ensure the PF has proper tags. Prog for prog and no [Duty Complete], Clear Party for clearing (no adds to clear etc or C4U) and no [Duty Complete], and Reclears for Reclear/Totem with [Duty Complete] set. Ensure you have a verified clear from <#945725212073295922> before pinging Reclears.
-
-[POST 2]
 6. **The #strats are just standards.** You are free to use any strats you wish, but please indicate this in your descriptions. #strats-discussion also may be used to talk about adjustments in LPDU strats.
 7. **Criticism is Allowed**. We allow users to give constructive feedback towards other users in their respective encounter channels. However, if the feedback isn't constructive, you should refrain from posting it. @'ing someone for inflammatory purposes is prohibited.
 8. **Party leaders can do anything.** It's their party, their decisions. If they choose to remove anyone for any reason, they have the authority to do so. We do not moderate parties and their internal dynamics.
