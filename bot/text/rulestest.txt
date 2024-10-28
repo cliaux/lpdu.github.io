@@ -19,9 +19,9 @@ Insulting users just for the sake of insulting them is not desired behaviour.
 :four: **Ensure you ping appropriately** 
 When posting a PF, ensure you only ping a single role and ensure the PF has proper tags. Here's a quick rundown of the Pings:
 * @Prog for prog and no [Duty Complete]
-* @Clear Party for clearing (no adds to clear etc or C4U) have [Duty Completion] and no [Duty Complete]
+* @Clear Party for clearing (no adds to clear etc or C4U or C4X, specifically C41 or C42 etc are fine if you have a clearee in it) have [Duty Completion] and no [Duty Complete]
 * @Reclears for reclear/totem with [Duty Complete] set. Ensure you have a verified clear from #verification-also-old before pinging reclears.
-* If you want to post a C4U party feel free to do so but do not ping any role
+* If you want to post a C4U/C4X party feel free to do so but do not ping any role
 
 :five: **Criticism is Allowed** 
 We allow users to give constructive feedback towards other users in their respective encounter channels. 
@@ -42,5 +42,5 @@ If you're unsure about whether your actions violate the rules, it's best not to 
 Exploiting or bending the rules is also considered a violation. Persisting in an action after a moderator or support instructs you to stop, even if done later, is considered a rule violation.
 If you are caught trying to circumvent a rule in such manner it will be seen as direct infraction of said rule.
 
-:asterisk: Note that staff has the final say and should be respected.
+:asterisk: Note that staff has the final say and should be respected. Staff keeps the right to remove troublesome people outside of this ruleset.
 :asterisk: :asterisk: In case you spot an infraction by a user or staff member feel free to either open a ticket to report the incident or right click the message>Apps>Summon Mods to call for staff to have a look
