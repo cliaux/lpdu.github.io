@@ -18,10 +18,10 @@ We all understand that heated situations happen, but no matter the situation att
 Insulting users just for the sake of insulting them is not desired behaviour.
 
 :four: **Ensure you ping appropriately** 
-When posting a PF, ensure you only ping a single role and ensure the PF has proper tags. Here's a quick rundown of the Pings:
+When posting a PF, ensure you *only ping a single role* and ensure the PF has proper tags. Here's a quick rundown of the Pings:
 * @Prog for prog and no [Duty Complete]
 * @Clear Party for clearing (no adds to clear etc or C4U or C4X, specifically C41 or C42 etc are fine if you have a clearee in it) have [Duty Completion] and no [Duty Complete]
-* @Reclears for reclear/totem with [Duty Complete] set. Ensure you have a verified clear from #verification-also-old before pinging reclears.
+* @Reclears for reclear/totem with [Duty Complete] set. Ensure you have a verified clear from https://discord.com/channels/840349073210867722/1296367904341753899 before pinging reclears.
 * If you want to post a C4U/C4X party feel free to do so but do not ping any role
 
 :five: **Criticism is Allowed** 
