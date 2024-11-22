@@ -4,12 +4,12 @@
 [COLOR] #FF0000
 **Tanks**
 PLD N/A Synced Gear: 500+ gear caps both substats
-WAR	2.5 <https://raw.githubusercontent.com/Moxfi/XIV/refs/heads/main/WAR/Resources/Ulti/Sets_2023-12-11/UWU_250_NoRelic.PNG>
-GNB	2.4 <https://u.cubeupload.com/krom/7ciAAC.png>
-DRK	N/A <https://xivgear.app/?page=sl%7Ca31944c3-a9ca-4839-ba67-2e3ec23dabb2> Multiple Options
+WAR	[2.5] (<https://raw.githubusercontent.com/Moxfi/XIV/refs/heads/main/WAR/Resources/Ulti/Sets_2023-12-11/UWU_250_NoRelic.PNG>)
+GNB	[2.4] (<https://u.cubeupload.com/krom/7ciAAC.png>)
+DRK	[N/A] (<https://xivgear.app/?page=sl%7Ca31944c3-a9ca-4839-ba67-2e3ec23dabb2>) Multiple Options
 
 **Healers**
 PLD N/A Synced Gear: 500+ gear caps both substats
-WAR	2.5 <https://raw.githubusercontent.com/Moxfi/XIV/refs/heads/main/WAR/Resources/Ulti/Sets_2023-12-11/UWU_250_NoRelic.PNG>
-GNB	2.4 <https://u.cubeupload.com/krom/7ciAAC.png>
-DRK	N/A <https://xivgear.app/?page=sl%7Ca31944c3-a9ca-4839-ba67-2e3ec23dabb2> Multiple Options
+WAR	[2.5] (<https://raw.githubusercontent.com/Moxfi/XIV/refs/heads/main/WAR/Resources/Ulti/Sets_2023-12-11/UWU_250_NoRelic.PNG>)
+GNB	[2.4] (<https://u.cubeupload.com/krom/7ciAAC.png>)
+DRK	[N/A] (<https://xivgear.app/?page=sl%7Ca31944c3-a9ca-4839-ba67-2e3ec23dabb2>) Multiple Options
