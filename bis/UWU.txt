@@ -1,14 +1,15 @@
 [TITLE] The Weapon's Refrain BiS List
 [IMAGE] https://lpdu.guide/bot/weaponsrefrain.png
 [FOOTER] Full BiS List can be found [here](https://docs.google.com/spreadsheets/d/1ZliNMFpOGS1I83USyH7SMmKDn_7wFLpo2HjAqLa6FXw/edit?gid=469937442#gid=469937442)
+
 **Tanks**
-PLD N/A Synced Gear: 500+ gear caps both substats
-WAR	[2.5] (<https://raw.githubusercontent.com/Moxfi/XIV/refs/heads/main/WAR/Resources/Ulti/Sets_2023-12-11/UWU_250_NoRelic.PNG>)
-GNB	[2.4] (<https://u.cubeupload.com/krom/7ciAAC.png>)
-DRK	[N/A] (<https://xivgear.app/?page=sl%7Ca31944c3-a9ca-4839-ba67-2e3ec23dabb2>) Multiple Options
+PLD: N/A Synced Gear: 500+ gear caps both substats  
+WAR: [2.5](https://raw.githubusercontent.com/Moxfi/XIV/refs/heads/main/WAR/Resources/Ulti/Sets_2023-12-11/UWU_250_NoRelic.PNG)  
+GNB: [2.4](https://u.cubeupload.com/krom/7ciAAC.png)  
+DRK: [N/A](https://xivgear.app/?page=sl%7Ca31944c3-a9ca-4839-ba67-2e3ec23dabb2) Multiple Options  
 
 **Healers**
-PLD N/A Synced Gear: 500+ gear caps both substats
-WAR	[2.5] (<https://raw.githubusercontent.com/Moxfi/XIV/refs/heads/main/WAR/Resources/Ulti/Sets_2023-12-11/UWU_250_NoRelic.PNG>)
-GNB	[2.4] (<https://u.cubeupload.com/krom/7ciAAC.png>)
-DRK	[N/A] (<https://xivgear.app/?page=sl%7Ca31944c3-a9ca-4839-ba67-2e3ec23dabb2>) Multiple Options
+PLD: N/A Synced Gear: 500+ gear caps both substats  
+WAR: [2.5](https://raw.githubusercontent.com/Moxfi/XIV/refs/heads/main/WAR/Resources/Ulti/Sets_2023-12-11/UWU_250_NoRelic.PNG)  
+GNB: [2.4](https://u.cubeupload.com/krom/7ciAAC.png)  
+DRK: [N/A](https://xivgear.app/?page=sl%7Ca31944c3-a9ca-4839-ba67-2e3ec23dabb2) Multiple Options
