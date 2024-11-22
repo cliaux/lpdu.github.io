@@ -6,12 +6,30 @@
 PLD [N/A] Synced Gear: 500+ gear caps both substats  
 WAR [2.5](https://raw.githubusercontent.com/Moxfi/XIV/refs/heads/main/WAR/Resources/Ulti/Sets_2023-12-11/UWU_250_NoRelic.PNG)  
 GNB [2.4](https://u.cubeupload.com/krom/7ciAAC.png)  
-DRK [N/A](https://xivgear.app/?page=sl%7Ca31944c3-a9ca-4839-ba67-2e3ec23dabb2) Multiple Options  
+DRK [Multiple Options](https://xivgear.app/?page=sl%7Ca31944c3-a9ca-4839-ba67-2e3ec23dabb2)  
 
 **Healers**
-PLD [N/A] Synced Gear: 500+ gear caps both substats  
-WAR [2.5](https://raw.githubusercontent.com/Moxfi/XIV/refs/heads/main/WAR/Resources/Ulti/Sets_2023-12-11/UWU_250_NoRelic.PNG)  
-GNB [2.4](https://u.cubeupload.com/krom/7ciAAC.png)  
-DRK [N/A](https://xivgear.app/?page=sl%7Ca31944c3-a9ca-4839-ba67-2e3ec23dabb2) Multiple Options
+WHM Synced Gear: 500+ gear caps both substats. Relic Stats: 136 Crit/Det/SPS | 60 Piety
+SCH Synced Gear: 500+ gear caps both substats.
+SGE Synced Gear: 500+ gear caps both substats.
+AST	[Multiple BiS](https://xivgear.app/?page=sl%7Cf4ac5879-3fac-4886-abf9-560f3b05b5e3)
+
+**Melee**
+DRG	[2.47](https://etro.gg/gearset/ce9e422b-df7b-4147-93a5-ca35da2e510d)
+-# Not Updated for 7.0
+SAM	[2.22/1.89](https://xivgear.app/?page=sl%7C41ebbdad-484c-4a6e-a146-4e187a322ea9)
+RPR Use any Crit+Det or Crit+DHit with ilvl 500 or higher.
+MNK	[Multiple BiS](https://docs.google.com/document/d/1aXJLZCs0t2jxeGO56RXKamUc4QJV35WER6IOt96ckao/)
+VPR	[1.78](https://xivgear.app/?page=sl%7C1e3e2816-cb5e-4d7f-b5e2-bb1d24f29921)
+NIN	[2.49](https://etro.gg/gearset/511241f5-ab42-446e-9424-8f504bc7be9a)
+
+**Caster**
+BLM	[Multiple BiS](https://xivgear.app/?page=sl%7Cf7cd7e23-8e42-4ea8-bc45-5e4379f88d7e)
+SMN	[2.12](https://etro.gg/gearset/6814afd4-b28b-4a89-b6a5-a4d163ee1009)	No ShB relic? Use 645 Manderville Relic with SPS/DH + DET
+RDM	[Multiple BiS](https://xivgear.app/?page=sl%7Cc5e281b5-f0b2-4a56-8923-169313d2df34) Select correct Ultimate at the top in link
+PCT	[Multiple BiS](https://xivgear.app/?page=sl%7C60c9a705-018d-4534-af67-96a2f25f1639)
+
+**Ranged**
+DNC [2.47](https://etro.gg/gearset/20493ff5-0aaa-4c17-bad5-866ba305de25)Bozja Relic with DH 136 | Crit 132 | DET 136 | SKS 64
 
 -# Full BiS list for all encounters can be found [here](https://docs.google.com/spreadsheets/d/1ZliNMFpOGS1I83USyH7SMmKDn_7wFLpo2HjAqLa6FXw/edit?gid=469937442)
