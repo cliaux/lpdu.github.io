@@ -1,4 +1,4 @@
-[TITLE] The Weapon's Refrain BiS List
+[TITLE] Weapon's Refrain BiS List
 [IMAGE] https://lpdu.guide/bot/weaponsrefrain.png
 ### <:TankRole:995074582916644936> Tank
 **PLD** [N/A] Synced Gear: 500+ gear caps both substats  
