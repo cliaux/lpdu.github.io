@@ -49,21 +49,6 @@ R2 - Magical Ranged
 /p    ~   B, 3               C, 4 ~
 /p        --                        --
 
-## Full Overview Macro
-/echo P1:  Loop,  Panto
-/echo P2: BPOG full cross, right side adjusts,
-/echo  on F  on M if NIN/SCH
-/echo P3: RMTHHTMR, stacks north
-/echo P4: TRHM MHRT, melees adjust
-/echo P6:┏ Wave Cannon 1 ┓┏ Wave Cannon 2 ┓
-/echo                                          →   ←
-/echo                               ↓           ↓
-/echo                                                 
-/echo                               ↑           ↑
-/echo                                          →   ←
-/echo Meteors: WC1 but  swap with Phys Ranged
-/echo and  and  swap
-
 [POST 2]
 # __TOP Strats by Phases__
    
