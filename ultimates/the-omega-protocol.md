@@ -30,6 +30,7 @@ R2 - Magical Ranged
 ## Macros for Sigma Tower Priority
 
 ### Mid Glitch Macro
+```
 /p               -  MID  -
 /p           ~ 1             2 ~
 /p       ~                            ~
@@ -38,8 +39,10 @@ R2 - Magical Ranged
 /p  ~  A, 3                  D, 4  ~
 /p    ~                                 ~
 /p        --     B          C   --
+```
 
 ### Far Glitch Macro
+```
 /p              -    FAR   - 
 /p          ~      1,  2        ~
 /p     ~                               ~
@@ -48,8 +51,10 @@ R2 - Magical Ranged
 /p  ~                                      ~
 /p    ~   B, 3               C, 4 ~
 /p        --                        --
+```
 
 ## Full Overview Macro
+```
 /echo P1:  Loop,  Panto
 /echo P2: BPOG full cross, right side adjusts,
 /echo  on F  on M if NIN/SCH
@@ -63,6 +68,7 @@ R2 - Magical Ranged
 /echo                                          →   ←
 /echo Meteors: WC1 but  swap with Phys Ranged
 /echo and  and  swap
+```
 
 # __TOP Strats by Phases__
    
