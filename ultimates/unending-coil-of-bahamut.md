@@ -31,6 +31,7 @@ R/L4 - Ranged
 /p 3rd MA: Tank LB3
 /p 4th MA: DPS Mitigations
 /p 5th MA: Everything Left```
+```
 
 # __UCOB Strats by Phases__
 ### Guide:
