@@ -1,9 +1,11 @@
-title: LPDU
-# theme: minima
-description: LPDU Guides
 
 remote_theme: jekyll/minima
 plugins:
   - jekyll-remote-theme
 minima:
   skin: auto
+
+
+title: LPDU
+# theme: minima
+description: LPDU Guides
