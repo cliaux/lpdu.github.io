@@ -24,14 +24,9 @@ First beams go north, second beams go south
 
 ## **P3: Nidhogg:**
 [Easthogg](<https://ff14.toolboxgaming.space/?id=275680911422861&preview=1>). 
-
 Preposition to claim a spot, stacks are north. 
-
 **H/R** anchor & bait enumeration towers, **T/M** adjust -> cw > ccw > across. 
-
 Refer to Toolbox for positions (Sanctity CW)
-
-
 
 *if you have a damage down wall it **after** P3 is dead - healers typically do not wall here even with a damage down* 
 
@@ -43,7 +38,6 @@ Refer to Toolbox for positions (Sanctity CW)
 
 ### Dives:
 [Tenstrike Eyes](<https://ff14.toolboxgaming.space/?id=934765675448561&preview=1>)
-
 Swap order: **T > M > 1st dives**
 
 ## **Intermission: Rewind**
@@ -58,9 +52,7 @@ Dive relative, blue marker NW, group east
 
 ### Death of the Heavens: 
 WAR relative, dooms north, far dooms east and west bait :MOND:.
-
 :KASTEN: and :PYRAMIDE: anchor SE/SW, **non-dooms adjust** to their partner. :KREUZ: adjust on the fly.
-
 :caster: LB three meteors - typically north (4 A B markers) or precasting it on your knockback spot so ppl know which meteors to hit
 
 [Toolbox](<https://ff14.toolboxgaming.space/?id=655564591965561&preview=1>)
@@ -69,11 +61,8 @@ WAR relative, dooms north, far dooms east and west bait :MOND:.
 Vow passes are in the middle of the arena, excluding the last one. 
 
 **DPS > T > T > M1** (if possible, M2 otherwise) **> Caster** (stay north)
-
 Tank prio on taking first vow: :war: > :gnb: > :pld: > :drk:
-
 Tank prio on middle spot for Hallowed Plumes: :gnb: > :drk: > :war: > :pld:
-
 **G1** hits Nidhogg, **G2** hits Hraesvelgr.
 
 ### Wyrmsbreath 1:
@@ -87,7 +76,6 @@ J dodge starting close to Nidhogg if possible. Spreads towards Nidhogg, stacks t
 
 ### Wyrmsbreath 2:
 5-1 north; **Regen Healer** anchor south, **Shield Healer** anchor north. Stretch tethers around that. 
-
 If both healers have the same tether, **Shield Healer** swaps with the closest DPS of the opposite tether.
 
 [Toolbox](<https://ff14.toolboxgaming.space/?id=375681351422861&preview=1>)
@@ -101,8 +89,6 @@ If both healers have the same tether, **Shield Healer** swaps with the closest D
 
 ### Gigaflares: 
 Mario Kart, don't run through the middle or you might miss heals.
-
 First 2 minute buff window will be **Gigaflare 1**, buffs on first hit going off 
-
 [Toolbox](<https://ff14.toolboxgaming.space/?id=448767858029561&preview=1>)
 
