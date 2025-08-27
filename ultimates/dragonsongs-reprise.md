@@ -1,3 +1,5 @@
+# **Strats**
+
 ## **P1: Adelphel, Grinnaux and Charibert**
 First beams go north, second beams go south
 
