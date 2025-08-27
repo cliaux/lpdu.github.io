@@ -1,4 +1,4 @@
-## **P1: Adelphel, Grinnaux and Charibert**
+## ***P1: Adelphel, Grinnaux and Charibert***
 First beams go north, second beams go south
 
 ### Knockback lineup:
@@ -11,7 +11,7 @@ First beams go north, second beams go south
 
 [Toolbox](<https://ff14.toolboxgaming.space/?id=802461081524561&preview=1>)
 
-## **P2: King Thordan**
+## ***P2: King Thordan***
 ### Strength:
 **G1** number waymarks, **G2** letter waymarks
 
@@ -20,7 +20,7 @@ First beams go north, second beams go south
 
 [Toolbox](<https://ff14.toolboxgaming.space/?id=454690614288171&preview=1>)
 
-## **P3: Nidhogg:**
+## ***P3: Nidhogg:***
 [Easthogg](<https://ff14.toolboxgaming.space/?id=275680911422861&preview=1>). 
 
 Preposition to claim a spot, stacks are north. 
@@ -33,7 +33,7 @@ Refer to Toolbox for positions (Sanctity CW)
 
 *if you have a damage down wall it **after** P3 is dead - healers typically do not wall here even with a damage down* 
 
-## **P3: The Eyes**
+## ***P4: The Eyes***
 ### Orbs:
 **T/H** east, **DPS** west
 **T/M** red chain, **H/R** blue chain
@@ -44,11 +44,11 @@ Refer to Toolbox for positions (Sanctity CW)
 
 Swap order: **T > M > 1st dives**
 
-## **Intermission: Rewind**
+## ***Intermission: Rewind***
 **H > M > R > T**
 Tank LB Prio: **:war: > :drk: > :pld: > :gnb:**
 
-## **P5: King Thordan II**
+## ***P5: King Thordan II***
 ### Wrath of the Heavens: 
 Dive relative, blue marker NW, group east
 
@@ -63,7 +63,7 @@ WAR relative, dooms north, far dooms east and west bait :MOND:.
 
 [Toolbox](<https://ff14.toolboxgaming.space/?id=655564591965561&preview=1>)
 
-## **P6: Nidhogg and Hraesvelgr**
+## ***P6: Nidhogg and Hraesvelgr***
 Vow passes are in the middle of the arena, excluding the last one. 
 
 **DPS > T > T > M1** (if possible, M2 otherwise) **> Caster** (stay north)
@@ -90,7 +90,7 @@ If both healers have the same tether, **Shield Healer** swaps with the closest D
 
 [Toolbox](<https://ff14.toolboxgaming.space/?id=375681351422861&preview=1>)
 
-## **__P7: Dragonking Thordan__**
+## ***P7: Dragonking Thordan***
 ### Trinity: 
 **M > R > H**, with **G1** taking the first auto.
 
